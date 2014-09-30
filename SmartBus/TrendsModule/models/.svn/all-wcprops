@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models
+END
+BHTrendsHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHTrendsHelper.h
+END
+BHTrendsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHTrendsModel.h
+END
+BHCommentModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHCommentModel.h
+END
+BHTrendsHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHTrendsHelper.m
+END
+BHTrendsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHTrendsModel.m
+END
+BHCommentModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/TrendsModule/models/BHCommentModel.m
+END

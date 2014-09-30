@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SmartBusNew-IOS/!svn/ver/544/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models
+END
+LKRoute.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKRoute.m
+END
+LKAdditionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/520/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKAdditionInfo.h
+END
+BUSDBHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BUSDBHelper.h
+END
+BUSDBUpdateHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/513/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BUSDBUpdateHelper.h
+END
+LKAdditionInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/520/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKAdditionInfo.m
+END
+BHBusHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHBusHelper.h
+END
+BUSDBHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BUSDBHelper.m
+END
+BHDistanceHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHDistanceHelper.h
+END
+BHRealTimeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/521/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHRealTimeData.h
+END
+BUSDBUpdateHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BUSDBUpdateHelper.m
+END
+BHBusHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/544/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHBusHelper.m
+END
+LKStation.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKStation.h
+END
+BHDistanceHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHDistanceHelper.m
+END
+BHRealTimeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHRealTimeData.m
+END
+BHLEDDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHLEDDesc.h
+END
+LKStation.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKStation.m
+END
+LKBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/507/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKBus.h
+END
+BHLEDDesc.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/BHLEDDesc.m
+END
+LKBus.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/507/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKBus.m
+END
+LKRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/models/LKRoute.h
+END

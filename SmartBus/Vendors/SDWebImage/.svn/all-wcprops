@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SmartBusNew-IOS/!svn/ver/551/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageDownloader.m
+END
+UIImage+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/551/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIImage+Helper.h
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageManagerDelegate.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDImageCache.h
+END
+UIImage+Helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/551/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIImage+Helper.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageManager.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDImageCache.m
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIImageView+WebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageCompat.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIButton+WebCache.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/UIImageView+WebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageDownloaderDelegate.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImagePrefetcher.m
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDWebImageDownloader.h
+END
+SDImageCacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SDWebImage/SDImageCacheDelegate.h
+END

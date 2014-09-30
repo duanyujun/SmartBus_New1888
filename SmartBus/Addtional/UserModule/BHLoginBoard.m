@@ -1,0 +1,263 @@
+//
+//  BHLoginBoard.m
+//  SmartBus
+//
+//  Created by jstv on 13-10-18.
+//  Copyright (c) 2013年 launching. All rights reserved.
+//
+
+#import "BHLoginBoard.h"
+#import "BHForgetPwdBoard.h"
+#import "BHRegisterBoard.h"
+#import "BHUserHelper.h"
+#import "BHUserBoard.h"
+
+@interface BHLoginBoard () <UITextFieldDelegate>
+{
+    BeeUITextField *telPTextField;
+    BeeUITextField *passwordTextField;
+    BHUserHelper *_userHelper;
+}
+
+- (void)drawLoginView:(float)dy;
+- (void)drawLoginButton:(float)dy;
+- (void)drawFindPasswordAndRegister;
+
+@end
+
+@implementation BHLoginBoard
+
+DEF_SIGNAL( SIGN_IN );
+DEF_SIGNAL( TO_FIND_PWD );
+DEF_SIGNAL( TO_REGISTER );
+
+- (void)load
+{
+    _userHelper = [[BHUserHelper alloc] init];
+    [_userHelper addObserver:self];
+    [super load];
+}
+
+- (void)unload
+{
+    [_userHelper removeObserver:self];
+    SAFE_RELEASE(_userHelper);
+    [super unload];
+}
+
+- (void)handleMenu
+{
+    [_userHelper removeObserver:self];
+    SAFE_RELEASE(_userHelper);
+    [self dismissViewControllerAnimated:YES completion:nil];
+}
+
+ON_SIGNAL2( BeeUIBoard, signal )
+{
+    [super handleUISignal_BeeUIBoard:signal];
+	
+	if ( [signal is:BeeUIBoard.CREATE_VIEWS] )
+	{
+        [self indicateIsFirstBoard:NO image:[UIImage imageNamed:@"nav_profile.png"] title:@"登录"];
+        
+        [self drawLoginView:12.f];
+        [self drawLoginButton:120.f];
+        [self drawFindPasswordAndRegister];
+	}
+	else if ( [signal is:BeeUIBoard.DELETE_VIEWS] )
+	{
+        SAFE_RELEASE_SUBVIEW(telPTextField);
+        SAFE_RELEASE_SUBVIEW(passwordTextField);
+	}
+    else if ( [signal is:BeeUIBoard.WILL_APPEAR] )
+    {
+        telPTextField.text = [BHUtil getUserPhoneFromCache];
+        passwordTextField.text = [BHUtil getPasswordFromCache];
+    }
+}
+
+ON_SIGNAL2( BeeUIButton, signal )
+{
+    [telPTextField resignFirstResponder];
+    [passwordTextField resignFirstResponder];
+    
+    if ( [signal is:self.SIGN_IN] )
+    {
+        NSString *phone = telPTextField.text;
+        NSString *password = passwordTextField.text;
+        
+        if ( !phone || phone.length == 0 )
+        {
+            [self presentMessageTips:@"请输入您的手机号!"];
+            return;
+        }
+        
+        if ( !password || password.length == 0 )
+        {
+            [self presentMessageTips:@"请输入您的密码!"];
+            return;
+        }
+        
+        [_userHelper login:phone password:password];
+    }
+    else if ( [signal is:self.TO_FIND_PWD] )
+    {
+        BHForgetPwdBoard *board = [BHForgetPwdBoard board];
+        [self.stack pushBoard:board animated:YES];
+    }
+    else if ( [signal is:self.TO_REGISTER] )
+    {
+        BHRegisterBoard *board = [BHRegisterBoard board];
+        [self.stack pushBoard:board animated:YES];
+    }
+}
+
+- (void)tapped:(UITapGestureRecognizer *)recognizer
+{
+    [telPTextField resignFirstResponder];
+    [passwordTextField resignFirstResponder];
+}
+
+
+#pragma mark -
+#pragma mark NetworkRequestDelegate
+
+- (void)handleRequest:(BeeHTTPRequest *)request
+{
+	if ( request.succeed )
+	{
+        if ([request.userInfo isEqualToString:@"login"])
+        {
+            if ( _userHelper.succeed )
+            {
+                [BHUtil saveUserPhone:telPTextField.text andPassword:passwordTextField.text];
+                [self dismissViewControllerAnimated:YES completion:nil];
+            }
+            else
+            {
+                [self presentMessageTips:@"用户名或密码错误"];
+            }
+        }
+    }
+}
+
+
+#pragma mark -
+#pragma mark private methods
+
+- (void)drawLoginView:(float)dy
+{
+    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(10.f, dy, 300.f, 90.f)];
+    view.backgroundImage = [[UIImage imageNamed:@"bubble.png"] stretchableImageWithLeftCapWidth:10 topCapHeight:10];
+    [self.beeView addSubview:view];
+    
+    UILabel *telPLabel = [[UILabel alloc] initWithFrame:CGRectMake(10.f, 12.f, 60.f, 20.f)];
+    telPLabel.backgroundColor = [UIColor clearColor];
+    telPLabel.font = BOLD_FONT_SIZE(14);
+    telPLabel.textAlignment = NSTextAlignmentLeft;
+    telPLabel.text = @"手机号 :";
+    [view addSubview:telPLabel];
+    [telPLabel release];
+    
+    telPTextField = [[BeeUITextField alloc] initWithFrame:CGRectMake(80.f, 10.f, 210.f, 25.f)];
+    telPTextField.keyboardType = UIKeyboardTypeNumberPad;
+    telPTextField.backgroundColor = [UIColor clearColor];
+    telPTextField.textColor = [UIColor flatDarkBlackColor];
+    telPTextField.font = FONT_SIZE(14);
+    telPTextField.delegate = self;
+    telPTextField.returnKeyType = UIReturnKeyNext;
+    telPTextField.placeholder = @"请输入手机号码";
+    telPTextField.clearButtonMode = UITextFieldViewModeWhileEditing;
+    [view addSubview:telPTextField];
+    
+    // 分割线
+    UIView *lineView = [[UIView alloc] initWithFrame:CGRectMake(10.f, 45.f, 280.f, 1.f)];
+    lineView.backgroundColor = [UIColor flatGrayColor];
+    [view addSubview:lineView];
+    [lineView release];
+    
+    UILabel *passwordLabel = [[UILabel alloc] initWithFrame:CGRectMake(10.f, 57.f, 60.f, 20.f)];
+    passwordLabel.backgroundColor = [UIColor clearColor];
+    passwordLabel.font = BOLD_FONT_SIZE(14);
+    passwordLabel.textAlignment = NSTextAlignmentLeft;
+    passwordLabel.text = @"密    码 :";
+    [view addSubview:passwordLabel];
+    [passwordLabel release];
+    
+    passwordTextField = [[BeeUITextField alloc] initWithFrame:CGRectMake(80.f, 55.f, 210.f, 25.f)];
+    passwordTextField.delegate = self;
+    passwordTextField.backgroundColor = [UIColor clearColor];
+    passwordTextField.textColor = [UIColor flatDarkBlackColor];
+    passwordTextField.font = FONT_SIZE(14);
+    passwordTextField.secureTextEntry = YES;
+    passwordTextField.returnKeyType = UIReturnKeyDone;
+    passwordTextField.placeholder = @"请输入密码";
+    passwordTextField.clearButtonMode = UITextFieldViewModeWhileEditing;
+    [view addSubview:passwordTextField];
+    
+    [view release];
+}
+
+- (void)drawLoginButton:(float)dy
+{
+    BeeUIButton *loginButton = [BeeUIButton new];
+    loginButton.frame = CGRectMake(10.f, dy, 300., 44.f);
+    loginButton.backgroundColor = [UIColor flatDarkRedColor];
+    loginButton.layer.cornerRadius = 4.f;
+    loginButton.layer.masksToBounds = YES;
+    loginButton.title = @"登    录";
+    loginButton.titleFont = BOLD_FONT_SIZE(18);
+    [loginButton addSignal:self.SIGN_IN forControlEvents:UIControlEventTouchUpInside];
+    [self.beeView addSubview:loginButton];
+    [loginButton release];
+}
+
+- (void)drawFindPasswordAndRegister
+{
+    BeeUIButton *findPasswordButton = [BeeUIButton new];
+    findPasswordButton.frame = CGRectMake(70.f, 175.f, 68.f, 30.f);
+    findPasswordButton.title = @"找回密码";
+    findPasswordButton.titleFont = FONT_SIZE(14);
+    findPasswordButton.titleColor = [UIColor darkGrayColor];
+    [findPasswordButton addSignal:self.TO_FIND_PWD forControlEvents:UIControlEventTouchUpInside];
+    [self.beeView addSubview:findPasswordButton];
+    [findPasswordButton release];
+    
+    // 分割线
+    UIView *lineView = [[UIView alloc] initWithFrame:CGRectMake(160.f, 182.f, 1.f, 20.f)];
+    lineView.backgroundColor = [UIColor lightGrayColor];
+    [self.beeView addSubview:lineView];
+    [lineView release];
+    
+    BeeUIButton *registerButton = [BeeUIButton new];
+    registerButton.frame = CGRectMake(182.f, 175.f, 68.f, 30.f);
+    registerButton.title = @"注册账户";
+    registerButton.titleColor = [UIColor darkGrayColor];
+    registerButton.titleFont = FONT_SIZE(14);
+    [registerButton addSignal:self.TO_REGISTER forControlEvents:UIControlEventTouchUpInside];
+    [self.beeView addSubview:registerButton];
+    [registerButton release];
+}
+
+
+#pragma mark - 
+#pragma mark UITextFieldDelegate
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+	[telPTextField resignFirstResponder];
+    [passwordTextField resignFirstResponder];
+	return YES;
+}
+
+- (BOOL)textFieldShouldBeginEditing:(UITextField *)textField
+{
+    return YES;
+}
+
+- (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string
+{
+    return YES;
+}
+
+@end

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SmartBusNew-IOS/!svn/ver/572/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/APService_SDK
+END
+PushConfig.plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/572/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/APService_SDK/PushConfig.plist
+END
+APService.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SmartBusNew-IOS/!svn/ver/569/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/APService_SDK/APService.h
+END
+libPushSDK.a
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/571/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/APService_SDK/libPushSDK.a
+END

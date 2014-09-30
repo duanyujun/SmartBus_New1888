@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network
+END
+Bee_Network.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_Network.m
+END
+Bee_HTTPMockServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPMockServer.h
+END
+Bee_HTTPRequestQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPRequestQueue.m
+END
+Bee_HTTPConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPConfig.h
+END
+Bee_HTTPMockServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPMockServer.m
+END
+Bee_HTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPRequest.h
+END
+Bee_Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_Network.h
+END
+Bee_HTTPConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPConfig.m
+END
+Bee_HTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPRequest.m
+END
+Bee_HTTPRequestQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/iOSBeeFramework/system/network/Bee_HTTPRequestQueue.h
+END

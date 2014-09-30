@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SmartBusNew-IOS/!svn/ver/524/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule
+END
+BHLoginBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHLoginBoard.h
+END
+BHAboutBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHAboutBoard.h
+END
+BHSettingBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHSettingBoard.h
+END
+BHPrivacyBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHPrivacyBoard.h
+END
+BHLoginBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHLoginBoard.m
+END
+BHRemindBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHRemindBoard.h
+END
+BHTipsBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHTipsBoard.h
+END
+BHAboutBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/524/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHAboutBoard.m
+END
+BHSettingBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHSettingBoard.m
+END
+BHPrivacyBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHPrivacyBoard.m
+END
+BHOfflineBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHOfflineBoard.h
+END
+BHRemindBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHRemindBoard.m
+END
+BHTipsBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHTipsBoard.m
+END
+BHFeedbackBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHFeedbackBoard.h
+END
+BHOfflineBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHOfflineBoard.m
+END
+BHFeedbackBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/SettingModule/BHFeedbackBoard.m
+END

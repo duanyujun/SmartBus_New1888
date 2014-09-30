@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SmartBusNew-IOS/!svn/ver/567/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player
+END
+PlayerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/PlayerView.m
+END
+MediaPlayerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/MediaPlayerView.m
+END
+JSTVPlayerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/567/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/JSTVPlayerView.h
+END
+JSTVPlayerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/JSTVPlayerViewController.h
+END
+JSTVPlayerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/567/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/JSTVPlayerView.m
+END
+AppConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/AppConfig.h
+END
+JSTVPlayerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/JSTVPlayerViewController.m
+END
+NSData+AES128.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/567/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/NSData+AES128.h
+END
+AppConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/AppConfig.m
+END
+UIControl+Create.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/UIControl+Create.h
+END
+NSData+AES128.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/567/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/NSData+AES128.m
+END
+NSString+Tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/NSString+Tool.h
+END
+UIControl+Create.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/UIControl+Create.m
+END
+NSString+Tool.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/NSString+Tool.m
+END
+MediaPlayerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/MediaPlayerView.h
+END
+PlayerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/MobileTVModule/Player/PlayerView.h
+END

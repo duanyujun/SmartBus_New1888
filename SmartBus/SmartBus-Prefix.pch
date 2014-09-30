@@ -1,0 +1,29 @@
+//
+// Prefix header for all source files of the 'SmartBus' target in the 'SmartBus' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Bee.h"
+    #import "BHDefines.h"
+    #import "SMBusEncryption.h"
+#endif
+
+//高德key
+#define AMAPKEY @"124d7905153633d8f148ff1a8b53a70e"
+
+// Image
+#define TTIMAGE(bundleResourceName)  [UIImage imageNamed:(bundleResourceName)]
+#define TTIMAGE_EX(bundleResourceName)  [UIImage imageNamed:(bundleResourceName)]
+
+// Font
+#define TTFONT_NAMED(fontName, fontSize)  [UIFont fontWithName:fontName size:fontSize]
+#define TTFONT_SIZED(fontSize)            [UIFont systemFontOfSize:fontSize]
+#define TTFONT_BOLD_SIZE(fontSize)        [UIFont boldSystemFontOfSize:fontSize]

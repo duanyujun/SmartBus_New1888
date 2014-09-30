@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan
+END
+BHPlanCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanCell.m
+END
+BHPlanModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanModel.m
+END
+BHPlanSectionInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanSectionInfo.m
+END
+BHPlanHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanHeaderView.m
+END
+BHPlanResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanResult.h
+END
+BHPlanCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanCell.h
+END
+BHPlanModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanModel.h
+END
+BHPlanSectionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanSectionInfo.h
+END
+BHPlanHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanHeaderView.h
+END
+BHPlanResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/TransferPlan/BHPlanResult.m
+END

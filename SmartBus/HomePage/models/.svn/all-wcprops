@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SmartBusNew-IOS/!svn/ver/547/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models
+END
+BHAppHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHAppHelper.h
+END
+BHAppModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHAppModel.h
+END
+MALocationHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/541/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/MALocationHelper.m
+END
+MALocationMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/MALocationMgr.h
+END
+BHAppHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartBusNew-IOS/!svn/ver/547/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHAppHelper.m
+END
+BHSectionModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHSectionModel.h
+END
+BHAppModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHAppModel.m
+END
+BHBannerModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHBannerModel.h
+END
+BHNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHNotification.h
+END
+MALocationMgr.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/MALocationMgr.m
+END
+BHSectionModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHSectionModel.m
+END
+BHBannerModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHBannerModel.m
+END
+BHNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/BHNotification.m
+END
+MALocationHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/SmartBusNew-IOS/!svn/ver/530/trunk/SM188/SmartBus_New1888/SmartBus/HomePage/models/MALocationHelper.h
+END

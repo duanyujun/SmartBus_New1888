@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView
+END
+NSMutableAttributedString+Helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/NSMutableAttributedString+Helper.m
+END
+SELinkText.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SELinkText.h
+END
+SETextInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextInput.h
+END
+SELinkText.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SELinkText.m
+END
+SETextInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextInput.m
+END
+SECompatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SECompatibility.h
+END
+SECompatibility.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SECompatibility.m
+END
+SETextSelectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextSelectionView.h
+END
+SELineLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SELineLayout.h
+END
+SETextMagnifierRanged.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextMagnifierRanged.h
+END
+SETextSelectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextSelectionView.m
+END
+SETextSelection.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextSelection.h
+END
+SELineLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SELineLayout.m
+END
+SETextMagnifierRanged.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextMagnifierRanged.m
+END
+SETextAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextAttachment.h
+END
+SETextSelection.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextSelection.m
+END
+SETextGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextGeometry.h
+END
+SETextAttachment.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextAttachment.m
+END
+SETextGeometry.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextGeometry.m
+END
+SETextEditingCaret.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextEditingCaret.h
+END
+SESelectionGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SESelectionGrabber.h
+END
+SEConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SEConstants.h
+END
+SETextEditingCaret.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextEditingCaret.m
+END
+SETextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextView.h
+END
+SESelectionGrabber.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SESelectionGrabber.m
+END
+SEConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SEConstants.m
+END
+SETextLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextLayout.h
+END
+SETextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextView.m
+END
+SETextMagnifierCaret.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextMagnifierCaret.h
+END
+SETextLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextLayout.m
+END
+SETextMagnifierCaret.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/SETextMagnifierCaret.m
+END
+NSMutableAttributedString+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Vendors/SECoreTextView/NSMutableAttributedString+Helper.h
+END

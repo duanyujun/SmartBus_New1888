@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SmartBusNew-IOS/!svn/ver/553/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views
+END
+BHStationsTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHStationsTable.m
+END
+BHRouteSectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHRouteSectionView.m
+END
+JHTickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/JHTickerView.h
+END
+BHSitesPopoupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSitesPopoupView.h
+END
+JHTickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/JHTickerView.m
+END
+BHSitesPopoupView.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSitesPopoupView.m
+END
+BHSearchBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSearchBar.h
+END
+BHSearchPopoups.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSearchPopoups.h
+END
+BHWaitsGirdCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHWaitsGirdCell.h
+END
+BHSearchBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSearchBar.m
+END
+BHSegmentedMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSegmentedMenu.h
+END
+BHSearchPopoups.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSearchPopoups.m
+END
+BHWaitsGirdCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHWaitsGirdCell.m
+END
+BHTextStyleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/548/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHTextStyleCell.h
+END
+BHSegmentedMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSegmentedMenu.m
+END
+BHLEDTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHLEDTableViewCell.h
+END
+BHTransferBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHTransferBar.h
+END
+BHTextStyleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/548/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHTextStyleCell.m
+END
+BHCellButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHCellButton.h
+END
+BHLEDTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHLEDTableViewCell.m
+END
+BHTransferBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/531/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHTransferBar.m
+END
+BHSelectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSelectionView.h
+END
+BHCellButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHCellButton.m
+END
+BHSelectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/516/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHSelectionView.m
+END
+BHWaitsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHWaitsCell.h
+END
+BHErrorPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/548/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHErrorPicker.h
+END
+BHResultPopView.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHResultPopView.h
+END
+BHWaitsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/539/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHWaitsCell.m
+END
+BHErrorPicker.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SmartBusNew-IOS/!svn/ver/553/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHErrorPicker.m
+END
+BHResultPopView.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/524/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHResultPopView.m
+END
+BHBadgeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHBadgeView.h
+END
+BHBadgeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHBadgeView.m
+END
+BHBtnStyleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SmartBusNew-IOS/!svn/ver/548/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHBtnStyleCell.h
+END
+BHBtnStyleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SmartBusNew-IOS/!svn/ver/551/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHBtnStyleCell.m
+END
+BHStationsTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHStationsTable.h
+END
+BHRouteSectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SmartBusNew-IOS/!svn/ver/493/trunk/SM188/SmartBus_New1888/SmartBus/Addtional/BusModule/views/BHRouteSectionView.h
+END
